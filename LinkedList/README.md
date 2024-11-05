@@ -1,4 +1,4 @@
-<h1>Linked List - Data Structure</h1>
+<h1>Linked List - Data Structure</h1>🚂
 Linked lists are a fundamental data structure that consist of nodes connected sequentially. Each node in a linked list has two components:
 
 1.  **Data**: Holds the actual value or data the node is storing.
@@ -118,7 +118,7 @@ Linked lists are dynamic data structures, meaning they do not require a fixed si
 
 *   **No Random Access**: Accessing elements is linear (O(n)), unlike arrays.
     
-*   **Extra Memory for Pointers**: Each node stores an extra reference to the next node, increasing memory usage.
+*   **Extra Memory for Pointers**: Each node stores an extra reference to the next node, increasing memory usage.</br>
 
 
-<b>credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme) 
+<b>👤 Credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme) 🫂!
