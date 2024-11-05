@@ -117,4 +117,4 @@ Here are some common operations performed on arrays, with a brief explanation of
 *   **Memory Contiguity Requirement**: Requires contiguous blocks of memory, which can limit large arrays.</br>
 
 
-<b>👤 Credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme) 🫂!
+<b>Credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme)

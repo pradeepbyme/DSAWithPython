@@ -121,4 +121,4 @@ Linked lists are dynamic data structures, meaning they do not require a fixed si
 *   **Extra Memory for Pointers**: Each node stores an extra reference to the next node, increasing memory usage.</br>
 
 
-<b>👤 Credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme) 🫂!
+<b>Credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme)
