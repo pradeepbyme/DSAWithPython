@@ -119,3 +119,6 @@ Linked lists are dynamic data structures, meaning they do not require a fixed si
 *   **No Random Access**: Accessing elements is linear (O(n)), unlike arrays.
     
 *   **Extra Memory for Pointers**: Each node stores an extra reference to the next node, increasing memory usage.
+
+
+<b>credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme) 
