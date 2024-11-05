@@ -4,7 +4,7 @@ An array is a fundamental data structure in programming that stores a collection
 Arrays are a popular way to store lists of items, as they allow for efficient access to each element using an <b>index</b>.
 In Python, arrays are often represented by lists, which provide similar functionality.
 
-<b>Characteristics of Arrays</b>:
+<b>1.Characteristics of Arrays</b>:
 <hr>
 
 1.<b>Fixed Size</b>: 
@@ -19,3 +19,11 @@ Each element can be accessed using an index, starting from 0.</br>
 4.<b>Homogeneous Elements</b>:
 Typically, arrays store elements of the same data type (though Python lists allow mixed types).</br>
 
+<b>2.Array Operations</b><hr>
+a.Accessing Elements:
+Access an element using its index in constant time,O(1).
+Example: arr[2] retrieves the element at index 2.
+
+b.Traversing:
+Visiting each element in the array one by one, typically using a loop.
+Time Complexity:O(n)                              where 𝑛 is the number of elements in the array.
