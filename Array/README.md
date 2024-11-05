@@ -1,5 +1,5 @@
 <h1>Array Data Structure</h1>
-An **array** is a fundamental data structure in programming that stores a collection of elements in a contiguous block of memory. Arrays are a popular way to store lists of items, as they allow for efficient access to each element using an index. In Python, arrays are often represented by lists, which provide similar functionality.
+An <b>array</b> is a fundamental data structure in programming that stores a collection of elements in a contiguous block of memory. Arrays are a popular way to store lists of items, as they allow for efficient access to each element using an index. In Python, arrays are often represented by lists, which provide similar functionality.
 
 Here's a breakdown of arrays and common operations performed on them:
 
@@ -101,7 +101,7 @@ Here are some common operations performed on arrays, with a brief explanation of
 
 3\. **Advantages of Arrays**
 
-*   **Fast Access**: Direct access to elements via indexing, which is O(1)O(1)O(1).
+*   **Fast Access**: Direct access to elements via indexing, which is O(1).
     
 *   **Memory Efficiency**: Contiguous memory allocation reduces overhead.
     
