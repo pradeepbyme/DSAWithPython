@@ -5,6 +5,7 @@ Arrays are a popular way to store lists of items, as they allow for efficient ac
 In Python, arrays are often represented by lists, which provide similar functionality.
 
 <b>Characteristics of Arrays</b>:</br>
+<hr>
 
 1.<b>Fixed Size</b>: 
 Arrays have a fixed size, meaning the number of elements they can hold is set when the array is created (though Python lists can be dynamically resized).</br>
