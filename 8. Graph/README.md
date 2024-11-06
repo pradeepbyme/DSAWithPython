@@ -94,7 +94,7 @@ Graphs are powerful tools for modeling relationships in real-world scenarios:
     
 *   **Dependency Management**: Tasks in project planning, where edges represent dependencies.
     
-*   **Computer Networks**: Routers/switches as nodes, and connections as edges./br>
+*   **Computer Networks**: Routers/switches as nodes, and connections as edges.</br>
 
 
 <b>Credits</b>: [Pradeep Rangisetti](https://www.linkedin.com/in/pradeepbyme)
